@@ -5,6 +5,10 @@ public class MainExtended {
         int myAge = 37;
         double height = 1.90;
         boolean isGoodLaptop = false;
+
         System.out.println(myName);
+        System.out.println(myAge);
+        System.out.println(1.90);
+        System.out.println(false);
     }
 }
