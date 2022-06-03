@@ -21,13 +21,13 @@ public class Notebook {
         }
     }
     public void checkWeight(){
-        if (this.weight.equals ("600g")){
+        if (this.weight =="600g"){
             System.out.println("Dane urządzenie jest lekkie");
 
-        }else if (this.weight.equals("1600")){
+        }else if (this.weight =="1600"){
             System.out.println("Dane urządządznie nie zbyt ciężkie");
 
-        }else if (this.weight.equals("2000")){
+        }else if (this.weight =="2000"){
             System.out.println("Dane urządzenie bardzo ciężkie");
         }
     }
