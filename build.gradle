@@ -4,9 +4,6 @@ plugins {
 group 'com.tasks'
 version '1.0-SNAPSHOT'
 
-test {
-    useJUnitPlatform()
-}
 
 repositories {
     mavenCentral()
