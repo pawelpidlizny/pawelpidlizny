@@ -1,5 +1,4 @@
-package com.tasks.basic_assertion;
-import com.mytasks.basic_assertion.Calculator;
+package com.mytasks.basic_assertion;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

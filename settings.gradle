@@ -6,4 +6,5 @@ include 'my-basic-tests'
 include 'basic-tests'
 include 'm-basic-tests'
 include 'my-basic-tests'
+include 'my-collections'
 

@@ -1,5 +1,4 @@
-package com.tasks.school;
-import com.mytasks.school.Grades;
+package com.mytasks.school;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

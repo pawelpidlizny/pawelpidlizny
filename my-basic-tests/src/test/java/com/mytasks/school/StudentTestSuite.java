@@ -1,6 +1,5 @@
-package com.tasks.school;
+package com.mytasks.school;
 
-import com.mytasks.school.Student;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

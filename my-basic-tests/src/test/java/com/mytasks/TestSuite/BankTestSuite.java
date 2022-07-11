@@ -1,4 +1,4 @@
-package com.tasks.TestSuite;
+package com.mytasks.TestSuite;
 import com.mytasks.bank.homework.Bank;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
